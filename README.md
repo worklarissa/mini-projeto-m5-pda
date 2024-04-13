@@ -4,8 +4,8 @@ Projeto iniciado para o Módulo 4 do Curso de Desenvolvimento Web Full Stack for
 
 Este projeto representa uma evolução e continuação do trabalho anterior, visando aprimorar a experiência do usuário. Trata-se de uma API cuidadosamente desenvolvida para apresentar uma seleção de filmes que contém:
 - Os filmes mais assistidos de todos os tempos;
-- Os filmes mais famosos da TV;
-- As séries de TV mais famosas;
+- Os sucessos na TV em 2022;
+- Os sucessos de bilheterias em 2022;
   
 Os usuários podem facilmente acessar informações detalhadas sobre os respectivos filmes e séries, como: rankeamento , título original (reduzido e completo), classificação, ano de lançamento.<br></br>
 Com uma arquitetura sólida e eficiente, este projeto visa proporcionar uma experiência envolvente e informativa aos amantes do cinema, conectando-os às obras mais relevantes e impactantes da sétima 
