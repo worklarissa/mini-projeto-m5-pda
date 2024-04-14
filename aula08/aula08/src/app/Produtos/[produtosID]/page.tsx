@@ -1,4 +1,4 @@
-'use client'
+'use client';
 import discos from "../../../../public/discos.json";
 import Image from "next/image";
 
