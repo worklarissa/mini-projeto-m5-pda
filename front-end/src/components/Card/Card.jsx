@@ -30,6 +30,8 @@ const Card = () =>{
                                 <img src={"/imagens/" + item.slug + ".jpg"} alt="Teste" width={100} height={100}></Image>                            
                             </Link>
                             <h2>{ item.album}</h2>
+                            <br/>
+                            <h3>{item.banda}</h3>
                         </div>
                     ))}                
                 </div>
