@@ -1,6 +1,6 @@
-import Header from "./components/Header/Header";
-import '../../public/css/style.css';
-import Footer from "./footer/footer";
+import Header from "./components/Header/Header.jsx";
+import '../public/css/style.css';
+
 
 
 
