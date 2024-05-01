@@ -4,6 +4,7 @@ import {useState, useEffect} from 'react';
 const Card = () =>{
     const[data,setData]=useState([]);
 
+    
     useEffect(()=>{
         const fetchData = async() => {
             const response = await fetch("/discos.json")
